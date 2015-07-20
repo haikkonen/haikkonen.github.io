@@ -1,10 +1,10 @@
 # Site settings
-title: Clean Blog
+title: My twister point of view...
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: maudelgado81@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+url: "http://haikkonen.github.io"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
